@@ -1,4 +1,4 @@
-# DatePicker
+# Dates Picker
 
 ![screenshot](app/src/main/res/Screenshot_1543805186.png)
 
